@@ -78,7 +78,7 @@ Compute matrix. Using codes with numpy packages.
 np.zeros(), np.column_stack(), np.ones(), np.matrix(), np.concatenate()
 np.dot(), np.linalg.pinv(), np.asarray()
 
-**Finalterm Project **  
+**Finalterm Project**  
 Creating classification and fit and predict. Using codes with logistic regression.
 sklearn.linear_model.LogisticRegression(), fit(), predict()
 
